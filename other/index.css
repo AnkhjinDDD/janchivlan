@@ -1017,3 +1017,9 @@ body > img {
     font-size: 2.5rem;
   }
 }
+@media screen and (min-width: 1700px) {
+  .product1 a:last-child {
+    font-size: 1.2rem;
+    padding: 1rem 1.5rem;
+  }
+}
